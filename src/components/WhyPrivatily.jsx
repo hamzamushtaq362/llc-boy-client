@@ -25,11 +25,11 @@ const WhyPrivatily = () => {
           {/* Left Text Content */}
           <div className="lg:w-1/2">
             <h2 className="text-3xl sm:text-4xl font-bold text-gray-900">
-              Why Privatily?
+              Why LLC BOY?
             </h2>
             <p className="mt-4 text-lg text-gray-600">
               We know how to take the complexity out of forming your company
-              because we’ve been in your shoes. Privatily was born because we
+              because we’ve been in your shoes. LLC BOY was born because we
               struggled ourselves—facing a complicated, lengthy process when
               trying to set up our own company in a supported country. Since
               2019, we’ve been committed to providing unmatched expertise,

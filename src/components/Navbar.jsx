@@ -8,7 +8,7 @@ const Navbar = () => {
         {/* Logo */}
         <div className="flex items-center">
           <div className="w-8 h-8 bg-gradient-to-br from-pink-500 to-purple-500 rounded-md"></div>
-          <h1 className="ml-2 text-xl font-bold">Privatily</h1>
+          <h1 className="ml-2 text-xl font-bold">LLC BOY</h1>
         </div>
       </div>
       <nav className="flex items-center space-x-6">
