@@ -23,7 +23,7 @@ const Header = () => {
       {/* Hamburger Menu Button for Mobile */}
       <div className="lg:hidden z-10">
         <button
-          className="text-2xl text-black"
+          className="text-2xl text-black dark:text-white"
           onClick={() => setIsMenuOpen(!isMenuOpen)}
         >
           {isMenuOpen ? <HiX /> : <HiMenu />}
